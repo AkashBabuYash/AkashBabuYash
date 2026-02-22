@@ -27,7 +27,7 @@
 - Pandas
 - Matplotlib
 - Scikit-learn
-- TensorFlow / Keras
+- TensorFlow
 
 ### 🤖 AI & Agents
 - LangChain
