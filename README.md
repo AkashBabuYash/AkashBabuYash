@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Akash Babu
 
-<!--
-**AkashBabuYash/AkashBabuYash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ML Engineer | Full Stack Web Developer | AI Agent Developer  
+🏢 Founder of Akash Web Development  
+💡 Passionate about building AI-powered applications and scalable web systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🤖 Building Machine Learning models using TensorFlow & Scikit-learn  
+- 🌐 Developing full-stack MERN applications  
+- 🧩 Creating AI Agents using LangChain & LangGraph  
+- 📊 Strong foundation in Data Structures & Algorithms (Java)  
+- 🔬 Interested in AI, Generative Models & Intelligent Systems  
+
+---
+
+## 🔥 Tech Stack
+
+### 💻 Programming
+- Python
+- Java (DSA)
+- JavaScript
+
+### 📊 Machine Learning & Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow / Keras
+
+### 🤖 AI & Agents
+- LangChain
+- LangGraph
+- Streamlit
+
+### 🌐 Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Firebase
+
+---
+
+## 📌 Current Projects
+- 🧠 Brain Tumor Detection using CNN
+- 🔐 OTP Authentication System (Firebase + MERN)
+- 🗳 AI-based Smart Voting System
+- 🤖 AI Agent Systems using LangChain
+
+---
+
+## 📫 Connect with Me
+- Email: (babuakash43168@gmail.com)
+- portfolio:(https://akashbabuportfolio.netlify.app/)
+- linkedin:(https://www.linkedin.com/in/akash-babu-31287a2a5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
