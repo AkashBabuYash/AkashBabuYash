@@ -1,7 +1,6 @@
 # Hi 👋, I'm Akash Babu
 
-🚀 ML Engineer | Full Stack Web Developer | AI Agent Developer  
-🏢 Founder of Akash Web Development  
+🚀 ML Engineer | Full Stack Web Developer | AI Agent Developer  | Knowledge about llm 
 💡 Passionate about building AI-powered applications and scalable web systems  
 
 ---
