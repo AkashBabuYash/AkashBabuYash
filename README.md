@@ -19,7 +19,7 @@
 ### 💻 Programming
 - Python
 - Java (DSA)
-- JavaScript
+
 
 ### 📊 Machine Learning & Data Science
 - NumPy
@@ -27,6 +27,8 @@
 - Matplotlib
 - Scikit-learn
 - TensorFlow
+- fine tuining
+- ragbased application
 
 ### 🤖 AI & Agents
 - LangChain
